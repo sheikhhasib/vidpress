@@ -1,0 +1,16 @@
+{
+    "name": "newsn360/vid-press",
+    "type": "wordpress-plugin",
+    "autoload": {
+      "psr-4": {
+        "VidPress\\": "includes/"
+      },
+      "files": [
+        "includes/functions.php",
+        "includes/filters.php"
+      ]
+    },
+    "config": {
+      "autoloader-suffix": "VidPress"
+    }
+  }
