@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name:       VidPress
- * Plugin URI:        https://newsn360.com/
+ * Plugin URI:        https://wordpress.org/plugins/vidpress/
  * Description:       Provides common video blocks for the site.
- * Version:           1.0.1
- * Author:            Newsn360
- * Author URI:        https://newsn360.com/
+ * Version:           1.0.2
+ * Author:            Hasibul Hossain Santo Shekh
+ * Author URI:        https://www.linkedin.com/in/hasibshekh/
  * License:           GPL-2.0+
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       vidpress
@@ -40,7 +40,7 @@ final class VidPress {
      *
      * @var string
      */
-    const version = '1.0.1';
+    const version = '1.0.2';
 
     /**
      * VidPress constructor.

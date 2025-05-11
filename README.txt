@@ -1,12 +1,13 @@
 === VidPress ===
 Plugin Name: VidPress
+Plugin URI: https://wordpress.org/plugins/vidpress/
 Description: A modern Gutenberg block plugin for embedding YouTube and Vimeo videos with custom player controls.
-Author: Hasibul Hossain Santo Sheikh
+Author: Hasibul Hossain Santo Shekh
 Author URI: https://www.linkedin.com/in/hasibshekh/
 GitHub: https://github.com/sheikhhasib/vidpress
 Tested up to: 6.8
-Stable tag: 1.0.1
-Version: 1.0.1
+Stable tag: 1.0.2
+Version: 1.0.2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -60,6 +61,9 @@ Definitely! You can add custom CSS or use class selectors to override the defaul
 3. Frontend display showing a customized embedded video.
 
 == Changelog ==
+
+= 1.0.2 =
+* Fixed core issues.
 
 = 1.0.1 =
 * Tested with WordPress 6.7
